@@ -1,3 +1,9 @@
 1st line in the file
 2nd line on remote
+
+
+5th line in local B1
+
+
 3rdline in master local
+
